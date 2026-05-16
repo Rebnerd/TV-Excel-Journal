@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Excel temp / lock files
+~$*.xls
+~$*.xlsx
+~$*.xlsm
